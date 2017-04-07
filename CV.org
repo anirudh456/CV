@@ -1,8 +1,12 @@
 
 #+title:  CV
-#+Email: ravulaanirudh7@gmail.com
-#+contact_no: 9177757690
 
+
+* Contact
+#+BEGIN_SRC
+email: ravulaanirudh7@gmail.com
+contact_no: 9177757690
+#+END_SRC
 
 
 
@@ -17,7 +21,7 @@ School : St.Paul's High School,Hyderabad,CGPA - 9.7
 
 * Technical skills
 
-#+name : Technical skills
+#+name: Technical skills
 #+BEGIN_SRC
 languages : GNU,C,C++,PYTHON,Javascript,racket
 #+END_SRC
